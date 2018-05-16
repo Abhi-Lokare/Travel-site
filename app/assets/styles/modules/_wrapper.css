@@ -1,0 +1,24 @@
+.wrapper{
+    overflow: hidden; /* for hiding that right extra padding */
+    padding-left: 18px;
+    padding-right: 18px;
+    max-width: 1236px; /* 1200px to 1236px bcz of padding 36px and box-sizing:border-box */
+    margin: 0 auto;
+
+    &--medium{
+        max-width: 900px;
+     }
+
+     .wrapper{
+         padding-left: 0;
+         padding-right: 0;
+     }
+
+    &--b-margin{
+        margin-bottom: 1rem;
+
+        @mixin atSmall{
+        margin-bottom: 3.875rem;
+        }
+     }
+}
