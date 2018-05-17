@@ -473,7 +473,7 @@ a{
         padding-right: 0;    
     }
 
-@media (min-width: 900px){
+@media (min-width: 800px){
 
 .wrapper--no-padding-until-medium{
     padding-left: 18px;
@@ -534,7 +534,7 @@ a{
     padding-bottom: 0;
   }
 
-@media (min-width: 900px){
+@media (min-width: 800px){
 
 .page-section--no-b-padding-until-medium{
       padding-bottom: 4.5rem
@@ -556,7 +556,7 @@ a{
       background-color: #e0e6ef;
   }
 
-@media (min-width: 900px){
+@media (min-width: 800px){
 
 .page-section--testimonial{
       background: url('/assets/images/testimonials-bg.jpg') top center no-repeat;
@@ -667,7 +667,7 @@ a{
         margin-bottom: 1rem;
     }
 
-@media (min-width: 900px){
+@media (min-width: 800px){
 
 .row{  
 /* creating a 4 coloumn layout */
@@ -737,7 +737,7 @@ a{
 
 /* Begin Equal height Rules  */
 
-@media (min-width: 900px){
+@media (min-width: 800px){
 
 .row--equal-height-at-medium{
         display: flex
@@ -870,7 +870,7 @@ strong{
     margin-bottom: 98px;
 }
 
-@media (min-width: 900px){
+@media (min-width: 800px){
 
 .testimonial{
     padding : 0 1.8125rem 1px 1.8125rem;
